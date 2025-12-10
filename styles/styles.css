@@ -1,0 +1,52 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: #488054;
+            background-color: aliceblue;
+        }
+ li{
+        font-size: 14px;
+        font-style: oblique;
+        font-weight: normal;
+    }
+ a{
+        color: aquamarine;
+        text-decoration: none;
+    }
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: chocolate;
+}
+.resumelistheading {
+        font-weight: bolder;
+        font-style: normal;
+    }   
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bolder;
+}
+.justify{
+    text-align: justify;
+}
+
+.homebg{
+    background-image: url('../Images/YMount.jpg');
+    background-position: top right;
+}
+
+.box1{
+    border-width: 1px;
+    border-style: groove;
+    border-color: bisque;
+}
+
+.box2{
+    padding: 40px;
+}
+.box3{
+    margin: 50px;
+}
